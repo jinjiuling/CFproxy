@@ -83,7 +83,7 @@ jsproxy_config({
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     'https://www.pornhub.com/': {
-      redir: 'https://php.net/'
+      redir: 'https://www.baidu.com/'
     },
     'http://91porn.com/': {
       redir: 'https://cn.vuejs.org/'
@@ -98,7 +98,7 @@ jsproxy_config({
       redir: 'https://zh-hans.reactjs.org/'
     },
     'http://haha.com/': {
-      content: '去学习吧，别看那些有的没的'
+      content: '去学习吧，'
     },
   }
 })
