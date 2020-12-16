@@ -83,10 +83,10 @@ jsproxy_config({
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     'https://www.pornhub.com/': {
-      redir: 'https://www.baidu.com/'
+      redir: 'https://www.pornhub.com/'
     },
     'http://91porn.com/': {
-      redir: 'https://cn.vuejs.org/'
+      redir: 'http://91porn.com/'
     },
     'http://www.91porn.com/': {
       redir: 'https://cn.vuejs.org/'
